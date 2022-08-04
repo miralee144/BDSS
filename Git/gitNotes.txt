@@ -1,3 +1,4 @@
 So far we have created directories to help organize our files. 
 We have created text files using this text editor vim. 
 Now we are using git repository. 
+Git allows for efficient collaboration
